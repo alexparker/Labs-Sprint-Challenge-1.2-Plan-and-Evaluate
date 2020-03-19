@@ -31,6 +31,8 @@ Describe the breakdown process of your first release canvas. Please add a link t
 
 - **For non-UX students:** Summarize what you included in your first release canvas and why the features in that release canvas create a complete feature set.
     - How will you test those features to know that they actually solve the problem?
+    
+- **For UX designers:** Not applicable
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
